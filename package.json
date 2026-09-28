@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/proofenv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proof list/env set operations for shell-friendly data wrangling.",
+  "bin": {
+    "proofenv": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/proofenv.git"
+  },
+  "homepage": "https://theworker02.github.io/proofenv/",
+  "keywords": [
+    "proof",
+    "env",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
